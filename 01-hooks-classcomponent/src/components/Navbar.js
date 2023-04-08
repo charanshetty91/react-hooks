@@ -18,8 +18,7 @@ class Navbar extends Component {
                 </nav>
             );
         }}
-        </ThemeContext.Consumer>);
-        
+        </ThemeContext.Consumer>);       
 
     }
 }
